@@ -116,7 +116,7 @@
     "react-hot-toast": "2.6.0",
     "react-i18next": "16.5.8",
     "react-turnstile": "1.1.5",
-    "sanitize-html": "2.17.3",
+    "sanitize-html": "2.18.0",
     "server-only": "0.0.1",
     "sharp": "0.34.5",
     "stripe": "20.4.1",
